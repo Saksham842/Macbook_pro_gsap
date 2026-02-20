@@ -208,7 +208,7 @@ const ProductViewer = () => {
 
 
                     {!activeCat?.image && (
-                        <div className="absolute right-[-15%] lg:right-[-35%] top-[70%] -translate-y-1/2 w-[80vw] lg:w-[100vw] h-[120%] pointer-events-auto animate-fade-in z-0">
+                        <div className="absolute right-[-15%] lg:right-[-25%] top-[70%] -translate-y-1/2 w-[80vw] lg:w-[100vw] h-[120%] pointer-events-auto animate-fade-in z-0">
 
                             <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[60%] h-[60%] rounded-full bg-zinc-400/10 blur-[130px] pointer-events-none" />
                             
