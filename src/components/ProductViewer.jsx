@@ -232,5 +232,4 @@ const ProductViewer = () => {
         </section>
     );
 };
-
 export default ProductViewer;
