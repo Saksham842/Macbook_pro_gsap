@@ -52,3 +52,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 ## 📜 Notice
 
 The 3D assets, icons, and structure in this project are used for educational purposes to demonstrate advanced GSAP animation and React Three Fiber integration capabilities. All rights for the MacBook Pro brand and imagery belong to Apple Inc.
+
+## 👨‍💻 Author
+
+- **Saksham**
